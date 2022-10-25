@@ -2,6 +2,8 @@
 Zulfa's Github</a></h1>
 <h3 align="center">A Dedicated and Joyful Frontend Developer</h3>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rofifatuzulfa" alt="rofifatuzulfa" /></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rofifatuzulfa&label=Profile%20views&color=0e75b6&style=flat" alt="rofifatuzulfa" /> </p>
 
 <a target="_blank" align="center">
